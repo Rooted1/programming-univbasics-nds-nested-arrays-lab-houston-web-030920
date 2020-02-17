@@ -36,6 +36,7 @@ def sorted_matrix
   
   matrix[0].sort 
   matrix[1].sort 
+  return matrix
 end
 
 #--------------------------------------------
